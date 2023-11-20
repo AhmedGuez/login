@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928601568062",
+    "project_id": "login-264c4",
+    "storage_bucket": "login-264c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928601568062:android:886479d4abf536b6b1f26f",
+        "android_client_info": {
+          "package_name": "epi.ia2.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhnVhOuDpbxapN2X4bFp5McchUSxbfpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
